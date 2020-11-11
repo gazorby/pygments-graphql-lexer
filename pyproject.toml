@@ -13,6 +13,9 @@ Pygments = "^2.7.2"
 
 [tool.poetry.dev-dependencies]
 
+[tool.poetry.plugins."pygments.lexers"]
+"graphqllexer" = "graphqllexer.lexer:GraphqlLexer"
+
 [build-system]
 requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
