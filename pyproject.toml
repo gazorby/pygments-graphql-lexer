@@ -6,7 +6,7 @@ authors = ["Gazorby <gazorby@pm.me>"]
 license = "BSD-3-Clause"
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.5"
 Pygments = "^2.7.2"
 
 [tool.poetry.dev-dependencies]
