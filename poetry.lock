@@ -8,8 +8,8 @@ python-versions = ">=3.5"
 
 [metadata]
 lock-version = "1.1"
-python-versions = "^3.8"
-content-hash = "21a4fabbfa3cfbd40b437bc0467f14570dff8d69e967fbd70ec6aee993e18472"
+python-versions = "^3.5"
+content-hash = "f89062e96de1ce5cb1f8d04659568ad4d542e2bc50ec3af15daf311e67baf98f"
 
 [metadata.files]
 pygments = [
