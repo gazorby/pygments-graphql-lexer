@@ -4,5 +4,4 @@ GraphQL lexer for Pygments
 
 ## Installation
 
-    pip install git+https://github.com/ivome/pygments-graphql-lexer.git
-
+    pip install git+https://github.com/gazorby/pygments-graphql-lexer.git
